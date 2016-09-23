@@ -1,9 +1,9 @@
-=== Image Sizes ===
+=== Stop Generating Image Sizes ===
 Contributors: mukto90
 Donate link: http://nazmulahsan.me
 Tags: image sizes, multiple image creation, image copy, media file duplicate, image duplicate wordpress
 Requires at least: 2.9.0
-Tested up to: 4.5.3
+Tested up to: 4.6.1
 Stable tag: trunk
 
 So, it creates multiple sizes of an image while uploading? Here is the solution!
